@@ -1,7 +1,9 @@
 # CS-305-SNHU
 CS-305-H7291 Software Security 21EW1
 - Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+  - Artemis Financial is a financial instution looking to incorporate additional security into their already exsisting application.
 - What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+ - I enjoyed and enjoyed encrypting communications. I really enjoyed incorporating a hashfunction into my code and then connecting to small server with my browser. 
 - What about the process of working through the vulnerability assessment did you find challenging or helpful?
 - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 - How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
